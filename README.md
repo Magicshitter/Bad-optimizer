@@ -1,2 +1,2 @@
-# Shitty-optimizer
-A shitty optimizer I made for Fortnite
+# Bad-optimizer
+A Bad optimizer I made for Fortnite
